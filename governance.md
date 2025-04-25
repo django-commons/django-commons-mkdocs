@@ -16,7 +16,8 @@ They are:
 - CoC Team
 - PyPI Team
 - Security Team
-- Communication
+
+## Communication
 
 Our teams use two main ways to communicate: GitHub Discussions and team related Google Group email.
 
@@ -42,8 +43,8 @@ Responsibilities/tasks include:
 - Provide resources and facilitate projects seeking new or additional maintainers. Help find new maintainers for projects that need them.
 - Facilitate discovery of maintenance best practices.
 - Maintain the [django-commons/membership](https://github.com/django-commons/membership) repository.
-- Maintain the [django-commons/controls](The controls for managing Django Commons projects) repository.
-- Conduct check-ins with project maintainers and our community. What else can we do to help our maintainers?
+- Maintain the [django-commons/controls](https://github.com/django-commons/controls) repository. This is the repository that contains the controls for managing Django Commons projects. 
+- Conduct check-ins with project maintainers and our community. 
 - Maintain this document and other documents that describe how Django Commons operates.
 - Attend regular team meetings to discuss the state of Django Commons and what we can do to improve it.
 - Help organize events and other community activities.
@@ -55,8 +56,8 @@ Out of scope responsibilities/tasks:
 
 Qualifications for admin members:
 
-- Be a DSF member.
-- Contributed 10 discussion topics or comments in the last 6 months that have contributed positively to Django Commons.
+- Be a [DSF Individual Member](https://www.djangoproject.com/foundation/individual-members/)
+- Contributed 10 discussion topics or comments in the last 6 months that have contributed positively to Django Commons
 
 ### Team governance
 
@@ -75,7 +76,7 @@ We strive to have a team [reflective of our values](https://docs.google.com/docu
 
 The admins internally communicate via the django-commons-admin@googlegroups.com mailing list and through admin meetings. The discussion taking place on the mailing list is private and only visible to admin team members. However, the team should aim to operate transparently and use public channels, like posting to GitHub Discussions, when possible.
 
-To contact the admin team, open an [Admin request issue on the membership repo. You can also publicly tag the @django-commons/admins team on GitHub to get our attention. If you need to reach out privately to the admin team, you can do so by sending an email to django-commons-admin@googlegroups.com.
+To contact the admin team, open an [Admin request issue on the membership repo](https://github.com/django-commons/membership/issues/new/choose). You can also publicly tag the @django-commons/admins team on GitHub to get our attention. If you need to reach out privately to the admin team, you can do so by sending an email to django-commons-admin@googlegroups.com.
 
 ## Code of Conduct team
 
@@ -87,7 +88,7 @@ Responsibilities/tasks include:
 - Making decisions on how to handle complaints of Code of Conduct violations.
 - Communicating with the person who made the complaint and the person who the complaint is about and any other relevant parties.
 - Keeping records of complaints and how they were handled.
-- Utilize the Code of Conduct Working Group’s recommendations and any other relevant DSF Working Group recommendations regarding code of conduct.
+- Utilize the [Code of Conduct Working Group’s](https://github.com/django/dsf-working-groups/blob/main/active/code-of-conduct.md) recommendations and any other relevant DSF Working Group recommendations regarding code of conduct.
 
 ### Team governance
 
