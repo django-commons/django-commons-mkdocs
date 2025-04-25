@@ -1,0 +1,5 @@
+site_name: Django Commons
+repo_url: https://github.com/django-commons/django-commons.github.io
+markdown_extensions:
+  - toc:
+      permalink: "#"
