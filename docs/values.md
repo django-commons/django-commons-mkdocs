@@ -1,5 +1,7 @@
 # Django Commons Values
 
+<!-- [Google Doc Link](https://docs.google.com/document/d/14x-svksM6aqU-nPVvScm6fSgCyzQbWxaUR1MeMeCDoQ/edit?tab=t.35jj7g3lglvu#heading=h.6n1lgh4nsrop) -->
+
 Django Commons seeks to embody the following values. These are central to the organization’s existence and influence how we make decisions. These are listed in alphabetical order.
 
 ## Inclusivity

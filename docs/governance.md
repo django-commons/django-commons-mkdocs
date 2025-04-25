@@ -1,5 +1,7 @@
 # Django Commons Governance
 
+<!-- [Google Doc Link](https://docs.google.com/document/d/14x-svksM6aqU-nPVvScm6fSgCyzQbWxaUR1MeMeCDoQ/edit?tab=t.0#heading=h.gbkvb0hnum4b) -->
+
 For Django Commons to function effectively, we need trusted volunteers to step up and take responsibility for certain aspects that require ongoing attention and a certain level of trust from our community. These volunteers are organized into teams, each with a specific focus.
 
 ## Relation to the Django Software Foundation
