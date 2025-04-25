@@ -6,7 +6,7 @@ For Django Commons to function effectively, we need trusted volunteers to step u
 
 ## Relation to the Django Software Foundation
 
-Django Commons is an independent initiative from the Django Software Foundation (DSF). We are here for the third-party packages that compliment Django. We are here as a community for and by Django users.
+Django Commons is an independent initiative from the Django Software Foundation (DSF). We are here for the third-party packages that complement Django. We are here as a community for and by Django users.
 
 ## Teams
 
