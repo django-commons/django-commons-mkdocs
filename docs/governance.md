@@ -23,9 +23,9 @@ Our teams use two main ways to communicate: GitHub Discussions and team related 
 
 Quick guide:
 
-- Use GitHub Discussions for: technical questions, project ideas, general help, and community discussions.
-- Use GitHub private vulnerability reporting for: security concerns.
-- Use Google Group email for: personal matters, sensitive information, or private volunteer concerns.
+- Use [GitHub Discussions](https://github.com/orgs/django-commons/discussions) for: technical questions, project ideas, general help, and community discussions.
+- Use [GitHub private vulnerability reporting](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability#privately-reporting-a-security-vulnerability) for: security concerns.
+- Use [Google Group email](mailto:django-commons-admin@googlegroups.com) for: personal matters, sensitive information, or private volunteer concerns.
 
 We believe in being open and transparent, so we encourage everyone to use GitHub Discussions as their first choice. This public space lets everyone see and join our conversations, which helps new volunteers learn from past discussions and feel included in our community.
 
