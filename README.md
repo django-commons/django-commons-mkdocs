@@ -1,0 +1,25 @@
+# django-commons.github.io
+
+The Django Commons docs are deployed at [django-commons.org](https://django-commons.org).
+
+## MkDocs Commands
+
+* `mkdocs new [dir-name]` - Create a new project.
+* `mkdocs serve` - Start the live-reloading docs server.
+* `mkdocs build` - Build the documentation site.
+* `mkdocs -h` - Print help message and exit.
+
+## Local Development
+
+- Create a Python 3.12 virtual environment
+- Run `pip install mkdocs`
+- Run `mkdocs serve`
+
+### pre-commit
+
+You don't have to use pre-commit. But if you choose to:
+
+- Run `pip install pre-commit`
+- Run `pre-commit install`
+
+This will install pre-commit. Then, before you commit, run `pre-commit run` to run pre-commit and check your changed files for linting errors.
