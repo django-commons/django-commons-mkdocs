@@ -70,7 +70,7 @@ The admin team may change around September.  In August, the admin team will put 
 
 At this time, the process for selecting new admin team members is based around the current admin team interviewing candidates it deems suitable. An election process was considered but as of April 2025, the admin team feels Django Commons has not matured enough for elections to provide tangible benefits over self-selection.
 
-We strive to have a team [reflective of our values](https://docs.google.com/document/d/14x-svksM6aqU-nPVvScm6fSgCyzQbWxaUR1MeMeCDoQ/edit?tab=t.35jj7g3lglvu).
+We strive to have a team [reflective of our values](values.md).
 
 ### Means of communication
 
