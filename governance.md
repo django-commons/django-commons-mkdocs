@@ -22,9 +22,9 @@ Our teams use two main ways to communicate: GitHub Discussions and team related 
 
 Quick guide:
 
-- Use GitHub Discussions for: technical questions, project ideas, general help, and community discussions
-- Use GitHub private vulnerability reporting for: security concerns
-- Use Google Group email for: personal matters, sensitive information, or private volunteer concerns
+- Use GitHub Discussions for: technical questions, project ideas, general help, and community discussions.
+- Use GitHub private vulnerability reporting for: security concerns.
+- Use Google Group email for: personal matters, sensitive information, or private volunteer concerns.
 
 We believe in being open and transparent, so we encourage everyone to use GitHub Discussions as their first choice. This public space lets everyone see and join our conversations, which helps new volunteers learn from past discussions and feel included in our community.
 
@@ -37,10 +37,10 @@ Responsibilities/tasks include:
 - Manage incoming transfers and outgoing transfers of projects.
 - Manage new membership applications.
 - Respond to inquiries from the community on the [Discussion forum](https://github.com/orgs/django-commons/discussions).
-- Manage all team rotation schedules, making sure that every team is actively staffed in a sustainable manner
+- Manage all team rotation schedules, making sure that every team is actively staffed in a sustainable manner.
 - Encourage people from diverse backgrounds to join one of the teams.
 - Provide resources and facilitate projects seeking new or additional maintainers. Help find new maintainers for projects that need them.
-- Facilitate discovery of maintenance best practices
+- Facilitate discovery of maintenance best practices.
 - Maintain the [django-commons/membership](https://github.com/django-commons/membership) repository.
 - Maintain the [django-commons/controls](The controls for managing Django Commons projects) repository.
 - Conduct check-ins with project maintainers and our community. What else can we do to help our maintainers?
@@ -55,17 +55,17 @@ Out of scope responsibilities/tasks:
 
 Qualifications for admin members:
 
-- DSF member
-- Contributed 10 discussion topics or comments in the last 6 months that have contributed positively to Django Commons
+- Be a DSF member.
+- Contributed 10 discussion topics or comments in the last 6 months that have contributed positively to Django Commons.
 
 ### Team governance
 
 The admin team has a minimum of three and a maximum of ten members. The exact number is determined by the admin team from time to time. The size of the admin team should reflect the workload and responsibilities of the team; as the needs of the organization change, the size of the admin team will adjust by vote. (Example: during transition periods, the size of the admin team may need to be larger.) 
 The admin team may change around September.  In August, the admin team will put out a public call to its membership to gauge interest in joining the admin team. Based on that interest, the admin team will decide: 
 
-- The size of the admin team for the upcoming term
-- Whether team changes are needed, or whether some admins can step down to make room for new admins 
-- Which admins will step down, and which will continue to serve
+- The size of the admin team for the upcoming term.
+- Whether team changes are needed, or whether some admins can step down to make room for new admins.
+- Which admins will step down, and which will continue to serve.
 
 At this time, the process for selecting new admin team members is based around the current admin team interviewing candidates it deems suitable. An election process was considered but as of April 2025, the admin team feels Django Commons has not matured enough for elections to provide tangible benefits over self-selection.
 
@@ -111,9 +111,9 @@ Responsibilities/tasks include:
 - Helping project maintainers with any other issues they have with PyPI.
 - Monitoring for any suspicious activity on PyPI, through email notifications sent by PyPI and other means, and follow-up with the team admins.
 - Responding - together with the security team - to any security incidents that occur related to PyPI.
-- Have Owner role on all PyPI and Test PyPI projects for Django Commons
-- Have MFA set up with PyPI and Test PyPI
-- Updating project admins access in PyPI and Test PyPI to reflect GitHub team membership
+- Have Owner role on all PyPI and Test PyPI projects for Django Commons.
+- Have MFA set up with PyPI and Test PyPI.
+- Updating project admins access in PyPI and Test PyPI to reflect GitHub team membership.
 
 Out-of-scope responsibilities/tasks:
 
@@ -139,11 +139,11 @@ The security team is there to support project maintainers in handling security r
 
 Responsibilities/tasks include:
 
-- Supporting projects maintainers in handling security reports by providing advice or guidance
-- Being a backup contact point for security reporters when project maintainers fail to respond to a security report
+- Supporting projects maintainers in handling security reports by providing advice or guidance.
+- Being a backup contact point for security reporters when project maintainers fail to respond to a security report.
 - In cases where a maintainer is unresponsive, the security team may take over the project to fix the security issue at their discretion.
-- Helping to set organization wide best practices regarding security
-- Helping project maintainers implement security best practices
+- Helping to set organization wide best practices regarding security.
+- Helping project maintainers implement security best practices.
 
 Out-of-scope responsibilities/tasks:
 
