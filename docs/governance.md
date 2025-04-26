@@ -14,10 +14,10 @@ There are four teams that work together to handle the operations of Django Commo
 
 They are:
 
-- Admin Team
-- CoC Team
-- PyPI Team
-- Security Team
+- [Admin Team](#admin-team)
+- [CoC Team](#code-of-conduct-team)
+- [PyPI Team](#pypi-team)
+- [Security Team](#security-team)
 
 ## Communication
 
