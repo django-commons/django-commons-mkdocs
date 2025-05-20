@@ -21,6 +21,26 @@ You don't have to use pre-commit. But if you choose to:
 
 This will install pre-commit. Then, before you commit, run `pre-commit run` to run pre-commit and check your changed files for linting errors.
 
+## Deployment
+
+The site is hosted using GitHub Pages which requires a separate repository.
+
+If you have cloned both this repository and django-commons.github.io to the same parent directory as follows:
+
+```
+django-commons-mkdocs/
+    src/
+        mkdocs.yml
+        docs/
+django-commons.github.io/
+```
+
+To deploy, run the following command from the `django-commons.github.io/` directory.
+
+```bash
+uv run --python 3.13 --with mkdocs mkdocs gh-deploy --config-file ../django-commons-mkdocs/src/mkdocs.yml --remote-branch main
+```
+
 ## MkDocs Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
