@@ -4,7 +4,7 @@ The Django Commons docs are deployed at [django-commons.org](https://django-comm
 
 ## Local Development
 
-1. Create a Python 3.12 virtual environment (`uv venv --python 3.13`)
+1. Create a Python 3.13 virtual environment (`uv venv --python 3.13`)
 2. Run `pip install mkdocs`
 3. Run `mkdocs serve`
 
