@@ -5,5 +5,7 @@ markdown_extensions:
       permalink: "#"
 nav:
   - Home: index.md
+  - FAQ: faq.md
   - Governance: governance.md
+  - Media: media.md
   - Values: values.md
