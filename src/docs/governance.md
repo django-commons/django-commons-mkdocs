@@ -10,7 +10,7 @@ Django Commons is an independent initiative from the Django Software Foundation 
 
 ## Teams
 
-There are four teams that work together to handle the operations of Django Commons. 
+There are four teams that work together to handle the operations of Django Commons.
 
 They are:
 
@@ -45,8 +45,8 @@ Responsibilities/tasks include:
 - Provide resources and facilitate projects seeking new or additional maintainers. Help find new maintainers for projects that need them.
 - Facilitate discovery of maintenance best practices.
 - Maintain the [django-commons/membership](https://github.com/django-commons/membership) repository.
-- Maintain the [django-commons/controls](https://github.com/django-commons/controls) repository. This is the repository that contains the controls for managing Django Commons projects. 
-- Conduct check-ins with project maintainers and our community. 
+- Maintain the [django-commons/controls](https://github.com/django-commons/controls) repository. This is the repository that contains the controls for managing Django Commons projects.
+- Conduct check-ins with project maintainers and our community.
 - Maintain this document and other documents that describe how Django Commons operates.
 - Attend regular team meetings to discuss the state of Django Commons and what we can do to improve it.
 - Help organize events and other community activities.
@@ -63,8 +63,8 @@ Qualifications for admin members:
 
 ### Team governance
 
-The admin team has a minimum of three and a maximum of ten members. The exact number is determined by the admin team from time to time. The size of the admin team should reflect the workload and responsibilities of the team; as the needs of the organization change, the size of the admin team will adjust by vote. (Example: during transition periods, the size of the admin team may need to be larger.) 
-The admin team may change around September.  In August, the admin team will put out a public call to its membership to gauge interest in joining the admin team. Based on that interest, the admin team will decide: 
+The admin team has a minimum of three and a maximum of ten members. The exact number is determined by the admin team from time to time. The size of the admin team should reflect the workload and responsibilities of the team; as the needs of the organization change, the size of the admin team will adjust by vote. (Example: during transition periods, the size of the admin team may need to be larger.)
+The admin team may change around September.  In August, the admin team will put out a public call to its membership to gauge interest in joining the admin team. Based on that interest, the admin team will decide:
 
 - The size of the admin team for the upcoming term.
 - Whether team changes are needed, or whether some admins can step down to make room for new admins.
@@ -100,7 +100,7 @@ The preferred size of the Code of Conduct team is 2-5 members. This is to make s
 
 ### Means of communication
 
-The Code of Conduct team communicates via the django-commons-coc@googlegroups.com mailing list. 
+The Code of Conduct team communicates via the django-commons-coc@googlegroups.com mailing list.
 
 ## PyPI team
 

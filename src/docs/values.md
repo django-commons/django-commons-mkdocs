@@ -6,7 +6,7 @@ Django Commons seeks to embody the following values. These are central to the or
 
 ## Inclusivity
 
-The community seeks to be welcoming, kind, inclusive and diverse. Any person who embodies the values of Django Commons is welcome in the community and should be treated with respect.  
+The community seeks to be welcoming, kind, inclusive and diverse. Any person who embodies the values of Django Commons is welcome in the community and should be treated with respect.
 
 ## Knowledge Sharing
 
@@ -23,5 +23,3 @@ The community seeks to make contributing to open source and the community itself
 ## Transparency
 
 The community seeks to be transparent with its decisions and processes. Being open about operations allows for greater knowledge sharing, inclusivity and makes the community sustainable.
-
-
