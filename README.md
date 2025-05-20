@@ -1,6 +1,8 @@
-# django-commons.github.io
+# Django Commons mkdocs
 
 The Django Commons docs are deployed at [django-commons.org](https://django-commons.org).
+
+The repository that hosts the docs is at https://github.com/django-commons/django-commons.github.io
 
 ## Local Development
 
