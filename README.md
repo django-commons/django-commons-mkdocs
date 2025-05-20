@@ -8,9 +8,9 @@ The repository that hosts the docs is at https://github.com/django-commons/djang
 
 1. Create a Python 3.13 virtual environment (`uv venv --python 3.13`)
 2. Run `pip install mkdocs`
-3. Run `mkdocs serve`
+3. Run `mkdocs serve -f src/mkdocs.yml`
 
-With uv: `uv run --python 3.13 --with mkdocs mkdocs serve`
+With uv: `uv run --python 3.13 --with mkdocs mkdocs serve -f src/mkdocs.yml`
 
 ### pre-commit
 
