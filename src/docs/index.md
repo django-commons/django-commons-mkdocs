@@ -8,7 +8,7 @@ Django Commons has lofty goals for the future, but it will only be possible with
 - Normalize and support maintainers periodically stepping back
 - Support and encourage new contributors to step up
 - Provide best practices for package maintainers
-- Compensate maintainers
+- Support maintainers in getting funding for their work
 
 ## How to join as a contributor?
 
