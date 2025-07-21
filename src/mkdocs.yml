@@ -3,6 +3,8 @@ repo_url: https://github.com/django-commons/django-commons.github.io
 markdown_extensions:
   - toc:
       permalink: "#"
+theme:
+  name: material
 nav:
   - Home: index.md
   - FAQ: faq.md

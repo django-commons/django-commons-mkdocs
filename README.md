@@ -7,10 +7,10 @@ The repository that hosts the docs is at https://github.com/django-commons/djang
 ## Local Development
 
 1. Create a Python 3.13 virtual environment (`uv venv --python 3.13`)
-2. Run `pip install mkdocs`
+2. Run `pip install mkdocs mkdocs-material`
 3. Run `mkdocs serve -f src/mkdocs.yml`
 
-With uv: `uv run --python 3.13 --with mkdocs mkdocs serve -f src/mkdocs.yml`
+With uv: `uv run --python 3.13 --with mkdocs --with mkdocs-material mkdocs serve -f src/mkdocs.yml`
 
 ### pre-commit
 
@@ -38,7 +38,7 @@ django-commons.github.io/
 To deploy, run the following command from the `django-commons.github.io/` directory.
 
 ```bash
-uv run --python 3.13 --with mkdocs mkdocs gh-deploy --config-file ../django-commons-mkdocs/src/mkdocs.yml --remote-branch main
+uv run --python 3.13 --with mkdocs --with mkdocs-material mkdocs  gh-deploy --config-file ../django-commons-mkdocs/src/mkdocs.yml --remote-branch main
 ```
 
 ## MkDocs Commands
