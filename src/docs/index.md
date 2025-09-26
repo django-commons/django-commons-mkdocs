@@ -28,18 +28,19 @@ Django Commons has lofty goals for the future, but it will only be possible with
 
 The following projects are maintained by the Django Commons community:
 
+- [axe-selenium-python](https://github.com/django-commons/axe-selenium-python): Integrate aXe and selenium to enable automated web accessibility testing
 - [django-click](https://github.com/django-commons/django-click): Write Django management command using the click CLI library
-- [django-cookie-consent](https://github.com/django-commons/django-cookie-consent): Manage cookie information and let visitors give or reject consent for them.
-- [django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar): A configurable set of panels that display various debug information about the current request/response.
-- [django-enum](https://github.com/django-commons/django-enum): Full and natural support for enumerations as Django model fields.
-- [drf-excel](https://github.com/django-commons/drf-excel): An XLSX spreadsheet renderer for Django REST Framework.
+- [django-cookie-consent](https://github.com/django-commons/django-cookie-consent): Manage cookie information and let visitors give or reject consent for them
+- [django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar): A configurable set of panels that display various debug information about the current request/response
+- [django-enum](https://github.com/django-commons/django-enum): Full and natural support for enumerations as Django model fields
+- [drf-excel](https://github.com/django-commons/drf-excel): An XLSX spreadsheet renderer for Django REST Framework
 - [django-fsm-2](https://github.com/django-commons/django-fsm-2): Django friendly finite state machine support
 - [django-prometheus](https://github.com/django-commons/django-prometheus): Export Django monitoring metrics for Prometheus.io
-- [django-simple-history](https://github.com/django-commons/django-simple-history): Stores Django model state on every create/update/delete.
-- [django-tailwind-cli](https://github.com/django-commons/django-tailwind-cli): Django and Tailwind integration based on the prebuilt Tailwind CSS CLI.
-- [django-tasks-scheduler](https://github.com/django-commons/django-tasks-scheduler): Schedule async tasks using redis protocol. Redis/ValKey/Dragonfly or any broker using the redis protocol can be used.
-- [django-typer](https://github.com/django-commons/django-typer): Use Typer (type hints) to define the interface for your Django management commands.
-- [django-valkey](https://github.com/django-commons/django-valkey): BSD licensed, full featured Valkey cache and session backend for Django.
+- [django-simple-history](https://github.com/django-commons/django-simple-history): Stores Django model state on every create/update/delete
+- [django-tailwind-cli](https://github.com/django-commons/django-tailwind-cli): Django and Tailwind integration based on the prebuilt Tailwind CSS CLI
+- [django-tasks-scheduler](https://github.com/django-commons/django-tasks-scheduler): Schedule async tasks using redis protocol. Redis/ValKey/Dragonfly or any broker using the redis protocol can be used
+- [django-typer](https://github.com/django-commons/django-typer): Use Typer (type hints) to define the interface for your Django management commands
+- [django-valkey](https://github.com/django-commons/django-valkey): BSD licensed, full featured Valkey cache and session backend for Django
 
 ### Internal projects
 
