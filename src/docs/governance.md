@@ -56,7 +56,7 @@ Out of scope responsibilities/tasks:
 
 - Maintaining projects. This is the responsibility of the maintainers of the projects themselves. However, admin team members are free to contribute to projects as they see fit. There is just no expectation that they do so.
 
-Qualifications for admin members:
+Qualifications for admin members (any of the following):
 
 - Be a [DSF Individual Member](https://www.djangoproject.com/foundation/individual-members/)
 - Contributed 10 discussion topics or comments in the last 6 months that have contributed positively to Django Commons
