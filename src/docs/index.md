@@ -12,10 +12,14 @@ Django Commons has lofty goals for the future, but it will only be possible with
 
 ## How to join as a contributor?
 
+We have minimum requirements for people that are [available here](https://github.com/django-commons/membership/blob/main/member_requirements.md).
+
 1. Review [Code of Conduct](https://github.com/django-commons/membership/blob/main/CODE_OF_CONDUCT.md)
 2. Create a [new member issue in the django-commons/membership repository](https://github.com/django-commons/membership/issues/new/choose).
 
 ## How to transfer a project in?
+
+We have requirements for incoming projects that are [available here](https://github.com/django-commons/membership/blob/main/incoming_repo_requirements.md).
 
 1. A person with the ability to transfer the project must join Django Commons (see [How to join as a contributor?](https://github.com/django-commons/membership#how-to-join-as-a-contributor))
 2. Create a [transfer project in issue in the django-commons/membership repository](https://github.com/django-commons/membership/issues/new/choose).
@@ -49,3 +53,4 @@ The following repositories are internal to Django Commons and are not actual lib
 - [django-commons/membership](https://github.com/django-commons/membership): Membership repository for the django-commons organization.
 - [django-commons/best-practices](https://github.com/django-commons/best-practices): A sample project with best practices for Django Commons projects.
 - [django-commons/controls](https://github.com/django-commons/controls): The controls for managing Django Commons projects
+- [django-commons/django-commons-mkdocs](https://github.com/django-commons/django-commons-mkdocs): The source control for this website.
