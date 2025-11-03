@@ -8,7 +8,8 @@ theme:
 nav:
   - Home: index.md
   - FAQ: faq.md
+  - Funding: funding.md
   - Governance: governance.md
   - Media: media.md
+  - Team: team.md
   - Values: values.md
-  - Funding: funding.md

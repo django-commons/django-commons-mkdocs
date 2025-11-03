@@ -54,3 +54,33 @@ The following repositories are internal to Django Commons and are not actual lib
 - [django-commons/best-practices](https://github.com/django-commons/best-practices): A sample project with best practices for Django Commons projects.
 - [django-commons/controls](https://github.com/django-commons/controls): The controls for managing Django Commons projects
 - [django-commons/django-commons-mkdocs](https://github.com/django-commons/django-commons-mkdocs): The source control for this website.
+
+## Django Commons Members
+
+Django Commons has a few bands of members. There is the broad membership role 
+
+- Members
+    - The broad membership role which anyone is welcome to join (see [How to join as a contributor?](#how-to-join-as-a-contributor)).
+    - Mention with `@django-commons/members` - USE SPARINGLY!
+- Admins
+    - The group that administers the Django Commons organization. Find out more on the [Team page](team.md).
+    - Mention with `@django-commons/admins`.
+    - Email at [django-commons-admins@googlegroups.com](mailto:django-commons-admins@googlegroups).
+- Super Admins
+    - The subset of Admins that have the technical privilege to manage the GitHub organization and PyPI organization.
+    - Mention with `@django-commons/super-admins`
+- Designers
+    - The group of members who are contribute to the projects and community specifically from a design perspective.
+    - Mention with `@django-commons/designers`
+- Project Members
+    - The group of members dedicated to a specific repository.
+    - This role grants the members Triage permission for the repository.
+    - Mention with `@django-commons/<repository>`
+- Project Committers
+    - The group of members who can commit changes to main for a repository.
+    - This role grants the members Commit permission for the repository.
+    - Mention with `@django-commons/<repository>-committers`
+- Project Admins:
+    - The group of members who are the admins for a repository.
+    - This role grants the members Admin permission for the repository.
+    - Mention with `@django-commons/<repository>-admins`
