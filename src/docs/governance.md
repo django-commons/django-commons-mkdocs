@@ -10,7 +10,7 @@ Django Commons is an independent initiative from the Django Software Foundation 
 
 ## Teams
 
-There are four teams that work together to handle the operations of Django Commons.
+There are three teams that work together to handle the operations of Django Commons.
 
 They are:
 
@@ -49,7 +49,7 @@ Responsibilities/tasks include:
 - Reach out to projects that might be interested in joining Django Commons.
 - Supporting projects maintainers in handling security reports by providing advice or guidance.
 - Being a backup contact point for security reporters when project maintainers fail to respond to a security report.
-- In cases where a maintainer is unresponsive, the security team may take over the project to fix the security issue at their discretion.
+- In cases where a maintainer is unresponsive, the admin team may take over the project to fix the security issue at their discretion.
 
 Out of scope responsibilities/tasks:
 
@@ -95,8 +95,8 @@ Responsibilities/tasks include:
 - Adding and removing users from projects as needed.
 - Helping project maintainers set up automated releases for their projects.
 - Helping project maintainers with any other issues they have with PyPI.
-- Monitoring for any suspicious activity on PyPI, through email notifications sent by PyPI and other means, and follow-up with the team admins.
-- Responding - together with the security team - to any security incidents that occur related to PyPI.
+- Monitoring for any suspicious activity on PyPI, through email notifications sent by PyPI and other means, and follow-up with the repo's admins.
+- Responding to any security incidents that occur related to PyPI.
 - Have Owner role on all PyPI and Test PyPI projects for Django Commons.
 - Have MFA set up with PyPI and Test PyPI.
 - Updating project admins access in PyPI and Test PyPI to reflect GitHub team membership.
