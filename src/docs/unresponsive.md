@@ -6,4 +6,4 @@ The table below outlines unresponsive maintainers. For the purposes of 'responsi
 | High      | 2 weeks   |
 | Medium    | 4 weeks   |
 | Low       | 8 weeks   |
-| None      | 16 weeks   |
+| None      | 16 weeks  |
