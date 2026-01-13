@@ -1,4 +1,4 @@
-The table below outlines unresponsive maintainers. For the purposes of 'resoponsiveness' an acknolwedgement is sufficient. There isn't an epecation that a fix will be implemented within the timeframes below.
+The table below outlines unresponsive maintainers. For the purposes of 'responsiveness' an acknowledgement is sufficient. There isn't an expectation that a fix will be implemented within the time frames below.
 
 | CVE Level | Timeframe |
 | ---       | ---       |
