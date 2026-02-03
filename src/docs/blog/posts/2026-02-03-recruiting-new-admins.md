@@ -33,7 +33,7 @@ Our aim is to onboard 1-3 new admins between now and April 30, 2026. Selection o
 
 ## What qualifications do I need?
 
-You must be a Django Commons member. Beyond that, we don't have specific requirements. It's helpful, however, to have experience helping in open source communities. We are looking for people with experience as project maintainers, open source contributors, community organizers, conference organizers, community managers, Djangonaut Space participants, writers of docs, or people with other kinds of open source experience.
+You must be a Django Commons member. [You can join today](https://github.com/django-commons/membership/issues/new/choose)! Beyond that, we don't have specific requirements. It's helpful, however, to have experience helping in open source communities. We are looking for people with experience as project maintainers, open source contributors, community organizers, conference organizers, community managers, Djangonaut Space participants, writers of docs, or people with other kinds of open source experience.
 
 ## How do I apply?
 
