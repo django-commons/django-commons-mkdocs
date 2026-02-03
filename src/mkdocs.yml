@@ -13,6 +13,8 @@ plugins:
         as_update: date.updated
 theme:
   name: material
+  logo: assets/logo-dark.png
+  favicon: assets/logo-dark.png
 nav:
   - Home: index.md
   - Blog: blog/index.md
