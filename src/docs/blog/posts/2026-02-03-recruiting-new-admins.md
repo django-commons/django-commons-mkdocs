@@ -3,6 +3,12 @@ date: 2026-02-03
 title: We're recruiting new admins!
 description: "The Django Commons admin team is recruiting new members. If you're interested in being an admin of Django Commons, please read."
 author: Lacey Henschel
+categories:
+  - Announcements
+tags:
+  - membership
+  - looking for volunteers
+  - admins
 ---
 
 The Django Commons admin team is recruiting new members. If you're interested in being an admin of Django Commons, **please fill out this [Admin Interest Form](https://forms.gle/XQKb1xfL7UKPEyL18) by [March 16th, 2026 AOE](https://time.is/compare/2359_16_March_2026_Anywhere_on_earth)**.
