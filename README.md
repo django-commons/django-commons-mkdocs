@@ -38,7 +38,7 @@ django-commons.github.io/
 To deploy, run the following command from the `django-commons.github.io/` directory.
 
 ```bash
-uv run --python 3.13 --with mkdocs --with mkdocs-material mkdocs  gh-deploy --config-file ../django-commons-mkdocs/src/mkdocs.yml --remote-branch main
+uv run --python 3.13 --with mkdocs --with mkdocs-material --with mkdocs-rss-plugin mkdocs gh-deploy --config-file ../django-commons-mkdocs/src/mkdocs.yml --remote-branch main
 ```
 
 ## MkDocs Commands
