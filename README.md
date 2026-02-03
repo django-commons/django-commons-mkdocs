@@ -7,10 +7,10 @@ The repository that hosts the docs is at https://github.com/django-commons/djang
 ## Local Development
 
 1. Create a Python 3.13 virtual environment (`uv venv --python 3.13`)
-2. Run `pip install mkdocs mkdocs-material`
+2. Run `pip install mkdocs mkdocs-material mkdocs-rss-plugin`
 3. Run `mkdocs serve -f src/mkdocs.yml`
 
-With uv: `uv run --python 3.13 --with mkdocs --with mkdocs-material mkdocs serve -f src/mkdocs.yml`
+With uv: `uv run --python 3.13 --with mkdocs --with mkdocs-material --with mkdocs-rss-plugin mkdocs serve -f src/mkdocs.yml`
 
 ### pre-commit
 
